@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+
+service DataManagement {
+  rpc StreamData (IncomingData) returns (stream ResponseData) {}
+}
+
+message Interval {
+  string start_time = 1;
+  string end_time = 2;
+}
+
+message IncomingData {
+  string instrument_class = 1;
+  string code = 2;
+  Interval interval = 3;
+  bool include_unvetted_price = 4;
+}
+
+message VettedPrice {
+  string price = 1;
+  string volume = 2;
+}
+
+message UnvettedPrice {
+  string price = 1;
+  string volume = 2;
+}
+
+message ErrorResponse {
+  string code = 1;
+  string message = 2;
+  repeated string details = 3;
+}
+
+enum EventType { UNKNOWN = 0; }
+
+message ResponseData {
+  string aggregate = 1;
+  string instrument_class = 2;
+  string code = 3;
+  EventType event_type = 4;
+  string ts_event = 5;
+  VettedPrice vetted = 6;
+  UnvettedPrice unvetted = 7;
+  ErrorResponse error = 8;
+}
