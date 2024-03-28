@@ -1,0 +1,540 @@
+aggregate: "Aggregate 0"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.00"
+  volume: "1000"
+}
+unvetted {
+  price: "9.00"
+  volume: "900"
+}
+aggregate: "Aggregate 1"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.01"
+  volume: "1001"
+}
+unvetted {
+  price: "9.01"
+  volume: "901"
+}
+aggregate: "Aggregate 2"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.02"
+  volume: "1002"
+}
+unvetted {
+  price: "9.02"
+  volume: "902"
+}
+aggregate: "Aggregate 3"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.03"
+  volume: "1003"
+}
+unvetted {
+  price: "9.03"
+  volume: "903"
+}
+aggregate: "Aggregate 4"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.04"
+  volume: "1004"
+}
+unvetted {
+  price: "9.04"
+  volume: "904"
+}
+aggregate: "Aggregate 0"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.00"
+  volume: "1000"
+}
+unvetted {
+  price: "9.00"
+  volume: "900"
+}
+aggregate: "Aggregate 1"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.01"
+  volume: "1001"
+}
+unvetted {
+  price: "9.01"
+  volume: "901"
+}
+aggregate: "Aggregate 2"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.02"
+  volume: "1002"
+}
+unvetted {
+  price: "9.02"
+  volume: "902"
+}
+aggregate: "Aggregate 3"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.03"
+  volume: "1003"
+}
+unvetted {
+  price: "9.03"
+  volume: "903"
+}
+aggregate: "Aggregate 4"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.04"
+  volume: "1004"
+}
+unvetted {
+  price: "9.04"
+  volume: "904"
+}
+aggregate: "Aggregate 0"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.00"
+  volume: "1000"
+}
+unvetted {
+  price: "9.00"
+  volume: "900"
+}
+aggregate: "Aggregate 1"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.01"
+  volume: "1001"
+}
+unvetted {
+  price: "9.01"
+  volume: "901"
+}
+aggregate: "Aggregate 2"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.02"
+  volume: "1002"
+}
+unvetted {
+  price: "9.02"
+  volume: "902"
+}
+aggregate: "Aggregate 3"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.03"
+  volume: "1003"
+}
+unvetted {
+  price: "9.03"
+  volume: "903"
+}
+aggregate: "Aggregate 4"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.04"
+  volume: "1004"
+}
+unvetted {
+  price: "9.04"
+  volume: "904"
+}
+aggregate: "Aggregate 0"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.00"
+  volume: "1000"
+}
+unvetted {
+  price: "9.00"
+  volume: "900"
+}
+aggregate: "Aggregate 1"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.01"
+  volume: "1001"
+}
+unvetted {
+  price: "9.01"
+  volume: "901"
+}
+aggregate: "Aggregate 2"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.02"
+  volume: "1002"
+}
+unvetted {
+  price: "9.02"
+  volume: "902"
+}
+aggregate: "Aggregate 3"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.03"
+  volume: "1003"
+}
+unvetted {
+  price: "9.03"
+  volume: "903"
+}
+aggregate: "Aggregate 0"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.00"
+  volume: "1000"
+}
+unvetted {
+  price: "9.00"
+  volume: "900"
+}
+aggregate: "Aggregate 1"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.01"
+  volume: "1001"
+}
+unvetted {
+  price: "9.01"
+  volume: "901"
+}
+aggregate: "Aggregate 2"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.02"
+  volume: "1002"
+}
+unvetted {
+  price: "9.02"
+  volume: "902"
+}
+aggregate: "Aggregate 3"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.03"
+  volume: "1003"
+}
+unvetted {
+  price: "9.03"
+  volume: "903"
+}
+aggregate: "Aggregate 4"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.04"
+  volume: "1004"
+}
+unvetted {
+  price: "9.04"
+  volume: "904"
+}
+aggregate: "Aggregate 0"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.00"
+  volume: "1000"
+}
+unvetted {
+  price: "9.00"
+  volume: "900"
+}
+aggregate: "Aggregate 0"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.00"
+  volume: "1000"
+}
+unvetted {
+  price: "9.00"
+  volume: "900"
+}
+aggregate: "Aggregate 1"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.01"
+  volume: "1001"
+}
+unvetted {
+  price: "9.01"
+  volume: "901"
+}
+aggregate: "Aggregate 2"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.02"
+  volume: "1002"
+}
+unvetted {
+  price: "9.02"
+  volume: "902"
+}
+aggregate: "Aggregate 3"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.03"
+  volume: "1003"
+}
+unvetted {
+  price: "9.03"
+  volume: "903"
+}
+aggregate: "Aggregate 4"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.04"
+  volume: "1004"
+}
+unvetted {
+  price: "9.04"
+  volume: "904"
+}
+aggregate: "Aggregate 0"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.00"
+  volume: "1000"
+}
+unvetted {
+  price: "9.00"
+  volume: "900"
+}
+aggregate: "Aggregate 1"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.01"
+  volume: "1001"
+}
+unvetted {
+  price: "9.01"
+  volume: "901"
+}
+aggregate: "Aggregate 2"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.02"
+  volume: "1002"
+}
+unvetted {
+  price: "9.02"
+  volume: "902"
+}
+aggregate: "Aggregate 3"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.03"
+  volume: "1003"
+}
+unvetted {
+  price: "9.03"
+  volume: "903"
+}
+aggregate: "Aggregate 4"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.04"
+  volume: "1004"
+}
+unvetted {
+  price: "9.04"
+  volume: "904"
+}
+aggregate: "Aggregate 0"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.00"
+  volume: "1000"
+}
+unvetted {
+  price: "9.00"
+  volume: "900"
+}
+aggregate: "Aggregate 1"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.01"
+  volume: "1001"
+}
+unvetted {
+  price: "9.01"
+  volume: "901"
+}
+aggregate: "Aggregate 2"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.02"
+  volume: "1002"
+}
+unvetted {
+  price: "9.02"
+  volume: "902"
+}
+aggregate: "Aggregate 3"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.03"
+  volume: "1003"
+}
+unvetted {
+  price: "9.03"
+  volume: "903"
+}
+aggregate: "Aggregate 4"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.04"
+  volume: "1004"
+}
+unvetted {
+  price: "9.04"
+  volume: "904"
+}
+aggregate: "Aggregate 0"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.00"
+  volume: "1000"
+}
+unvetted {
+  price: "9.00"
+  volume: "900"
+}
+aggregate: "Aggregate 1"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.01"
+  volume: "1001"
+}
+unvetted {
+  price: "9.01"
+  volume: "901"
+}
+aggregate: "Aggregate 2"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.02"
+  volume: "1002"
+}
+unvetted {
+  price: "9.02"
+  volume: "902"
+}
+aggregate: "Aggregate 3"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.03"
+  volume: "1003"
+}
+unvetted {
+  price: "9.03"
+  volume: "903"
+}
+aggregate: "Aggregate 4"
+instrument_class: "Exemple Instrument"
+code: "12345"
+ts_event: "2024-03-26"
+vetted {
+  price: "10.04"
+  volume: "1004"
+}
+unvetted {
+  price: "9.04"
+  volume: "904"
+}
